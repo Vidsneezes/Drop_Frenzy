@@ -6,3 +6,10 @@ Click on the left or right side of the Red-box things to move!
 Collect Televisions, Cats, And Bags to score big points.
 Avooid the bombs and TNT!
 You only have 3 lives!
+
+
+Open Source Projects Used.
+
+Phaser by PhotonStorm
+
+https://github.com/photonstorm/phaser/tree/master
