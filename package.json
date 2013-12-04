@@ -1,0 +1,32 @@
+{
+  "name": "Drop_Frenzy",
+  "version": "0.0.0",
+  "description": "Game for github",
+  "main": "index.js",
+  "scripts": {
+    "test": "game"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vidsneezes/Drop_Frenzy.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Oscar Morales",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Vidsneezes/Drop_Frenzy/issues"
+  },
+  "homepage": "https://github.com/Vidsneezes/Drop_Frenzy",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-mocha": "~0.4.7",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.7"
+  }
+}
